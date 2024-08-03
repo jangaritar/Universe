@@ -177,3 +177,6 @@ git remote remove origin
 git remote set-url origin https://github.com/jangaritar/blank.git
 git remote remove origin
 git add .
+git checkout -b main
+git branch
+git push origin main
