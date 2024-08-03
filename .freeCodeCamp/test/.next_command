@@ -180,3 +180,7 @@ git add .
 git checkout -b main
 git branch
 git push origin main
+git branch
+git push origin main
+git pull origin main
+git add .
