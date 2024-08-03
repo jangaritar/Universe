@@ -184,3 +184,6 @@ git branch
 git push origin main
 git pull origin main
 git add .
+git push origin main
+git pull --rebase origin main
+git add .
