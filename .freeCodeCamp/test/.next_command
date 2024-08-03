@@ -189,3 +189,4 @@ git pull --rebase origin main
 git add .
 git pull --rebase origin main
 git add .
+git stash
